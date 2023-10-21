@@ -1,4 +1,5 @@
-#REACT PIZZA STORE
+# REACT PIZZA STORE
+
 /w react router, redux & tailwindcss
 ##BUSINESS REQUIREMENETS
 
@@ -14,28 +15,29 @@
 - each order will get a unique id that should be displayed so the user can later look up their order based on the id
 - users should be able to mark their order as priority after ordering
 
-##FEATURE CATEGORIES
+## FEATURE CATEGORIES
 
 - User
 - Menu
 - Cart
 - Order
 
-##PAGES
+## PAGES
+
 1.Homepage `/`
 2.Menu `menu`
 3.Cart `/cart`
 4.Placing an order `order/new`
 5.Looking up an order `order/:orderid`
 
-##STATE
+## STATE
 
 - User -> Global UI State
 - Menu -> Global Remote State
 - Cart -> Global UI State
 - Order -> Global Remote State
 
-##TECH DESCISSIONS
+## TECH DESCISSIONS
 
 - React Router
 - tailwindcss
