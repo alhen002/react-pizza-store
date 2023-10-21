@@ -24,11 +24,11 @@
 
 ## PAGES
 
-1.Homepage `/`
-2.Menu `menu`
-3.Cart `/cart`
-4.Placing an order `order/new`
-5.Looking up an order `order/:orderid`
+1. Homepage `/`
+2. Menu `menu`
+3. Cart `/cart`
+4. Placing an order `order/new`
+5. Looking up an order `order/:orderid`
 
 ## STATE
 
