@@ -1,4 +1,5 @@
 #REACT PIZZA STORE
+/w react router, redux & tailwindcss
 ##BUSINESS REQUIREMENETS
 
 - very simple application where users can order one or more pizzas from a menu
